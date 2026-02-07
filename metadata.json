@@ -1,0 +1,5 @@
+{
+  "name": "ZenWeather",
+  "description": "A visually stunning, weather application featuring smooth animations, dynamic gradient backgrounds based on weather conditions, and a clean glassmorphism UI.",
+  "requestFramePermissions": []
+}
